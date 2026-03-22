@@ -5,8 +5,8 @@ pub(crate) const WINDOW_HEIGHT: f32 = 600.0;
 
 pub(crate) const GRID_SIZE: f32 = 20.0;
 pub(crate) const CELL_FILL: f32 = 0.9;
-pub(crate) const SNAKE_FIXED_HZ: f64 = 8.0;
-pub(crate) const INITIAL_SNAKE_LENGTH: usize = 3;
+pub(crate) const SNAKE_FIXED_HZ: f64 = 5.0;
+pub(crate) const INITIAL_SNAKE_LENGTH: usize = 1;
 
 pub(crate) const Z_GRID: f32 = -10.0;
 pub(crate) const Z_TRAIL: f32 = 0.5;
